@@ -5,5 +5,6 @@ Today I learned what it means for a program to be open source. For a program to 
 When asking questions on a forum, you should always try to find the answer first. You should also be precise about what you did and what went wrong, and if possible describe how to reproduce the problem. Also, you should make sure to spell correctly and use correct grammar.
 
 Installing tree:
+
 ![Tree installation](InstallTree.png)
 
