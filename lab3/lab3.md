@@ -11,3 +11,7 @@ Using git log:
 
 ##Part 2
 [Link](https://github.com/aleung013/Spoon-Knife) to Spoon-Knife
+
+Finished git branching:
+
+![gitbranch](gitbranch.png)
