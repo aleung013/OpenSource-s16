@@ -49,4 +49,4 @@
        </tr>
    </table>
 
-1. My project is going to be an Android app that lets users create and plan hangouts with their friends. Therefore, it will most popular among high school / college students. It will probably be a MIT license so other people can use and modify the program.
+1. My project is going to be an Android app that lets users create and plan hangouts with their friends. Therefore, it will most popular among high school / college students. It will probably be an Apache license so we can protect trademarks.
