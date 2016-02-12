@@ -16,6 +16,37 @@
 
 1. repo
 
-1. 5 projs
+1. <table>
+       <tr>
+           <td>Website</td>
+	   <td>License Present</td>
+	   <td>License</td>
+       </tr>
+       <tr>
+           <td><a href="https://github.com/RCOS-Grading-Server/HWserver">Homework Server</a></td>
+	   <td>Yes</td>
+	   <td>BSD "3-Clause" Liscense</td>
+       </tr>
+       <tr>
+           <td></td>
+	   <td></td>
+	   <td></td>
+       </tr>
+       <tr>
+           <td></td>
+	   <td></td>
+	   <td></td>
+       </tr>
+       <tr> 
+           <td></td>
+	   <td></td>
+	   <td></td>
+       </tr>
+       <tr>
+           <td></td>
+	   <td></td>
+	   <td></td>
+       </tr>
+   </table>
 
 1. project
