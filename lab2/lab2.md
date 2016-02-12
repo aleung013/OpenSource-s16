@@ -25,27 +25,27 @@
        <tr>
            <td><a href="https://github.com/RCOS-Grading-Server/HWserver">Homework Server</a></td>
 	   <td>Yes</td>
-	   <td>BSD "3-Clause" Liscense</td>
+	   <td>BSD "3-Clause"</td>
        </tr>
        <tr>
-           <td></td>
-	   <td></td>
-	   <td></td>
+           <td><a href="https://github.com/makinj/MeNext">MeNext</a></td>
+	   <td>Yes</td>
+	   <td>MIT</td>
        </tr>
        <tr>
-           <td></td>
-	   <td></td>
-	   <td></td>
+           <td><a href="https://github.com/tassiahmed/SplitScreen">SplitScreen</a></td>
+	   <td>Yes</td>
+	   <td>Apache 2.0</td>
        </tr>
        <tr> 
-           <td></td>
-	   <td></td>
-	   <td></td>
+           <td><a href="https://github.com/AutoRoute/node">AutoRoute</a></td>
+	   <td>Yes</td>
+	   <td>MIT</td>
        </tr>
        <tr>
-           <td></td>
-	   <td></td>
-	   <td></td>
+           <td><a href="https://github.com/bocaaust/CrowdCop">CrowdCop</a></td>
+	   <td>Yes</td>
+	   <td>Apache 2.0</td>
        </tr>
    </table>
 
