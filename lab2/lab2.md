@@ -14,7 +14,7 @@
 
 1. GPL would be most useful for the common good because it has all the rights of free software. LGPL would be more useful for developers because it is more restrictive than a GPL liscense so it would allow more people to use their code. Apache/BSD would be most useful for a company because it would protect their trademarks.
 
-1. repo
+1. [repo][https://github.com/aleung013/PickALicense] with license
 
 1. <table>
        <tr>
