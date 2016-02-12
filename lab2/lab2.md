@@ -49,4 +49,4 @@
        </tr>
    </table>
 
-1. project
+1. My project is going to be an Android app that lets users create and plan hangouts with their friends. Therefore, it will most likely be used by high school / college students. It will probably be a MIT license.
