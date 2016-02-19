@@ -15,3 +15,7 @@ Using git log:
 Finished git branching:
 
 ![gitbranch](gitbranch.png)
+
+#Part 3
+Git diff shows us what has changed between the working directory and index/HEAD.
+
