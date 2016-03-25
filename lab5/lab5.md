@@ -1,5 +1,7 @@
 ## Lab 5
 
+[Link to code](https://github.com/aleung013/OpenSource-s16/tree/master/lab5/Tutorial)
+
 #### Part 1
 Running cmake and building the project:
 
