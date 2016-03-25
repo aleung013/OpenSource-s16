@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MathFunctions/MathFunctions.h
+
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/TutorialConfig.h
+MathFunctions.h
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/MathFunctions.h
+
+TutorialConfig.h
+

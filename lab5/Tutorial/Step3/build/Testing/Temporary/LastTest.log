@@ -1,0 +1,122 @@
+Start testing: Mar 25 10:07 EDT
+----------------------------------------------------------
+1/5 Testing: TutorialRuns
+1/5 Test: TutorialRuns
+Command: "/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build/Tutorial" "25"
+Directory: /home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build
+"TutorialRuns" start time: Mar 25 10:07 EDT
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialRuns" end time: Mar 25 10:07 EDT
+"TutorialRuns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: TutorialComp25
+2/5 Test: TutorialComp25
+Command: "/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build/Tutorial" "25"
+Directory: /home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build
+"TutorialComp25" start time: Mar 25 10:07 EDT
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[25 is 5
+]
+"TutorialComp25" end time: Mar 25 10:07 EDT
+"TutorialComp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: TutorialNegative
+3/5 Test: TutorialNegative
+Command: "/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build/Tutorial" "-25"
+Directory: /home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build
+"TutorialNegative" start time: Mar 25 10:07 EDT
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[-25 is 0
+]
+"TutorialNegative" end time: Mar 25 10:07 EDT
+"TutorialNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: TutorialSmall
+4/5 Test: TutorialSmall
+Command: "/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build/Tutorial" "0.0001"
+Directory: /home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build
+"TutorialSmall" start time: Mar 25 10:07 EDT
+Output:
+----------------------------------------------------------
+Computing sqrt of 0.0001 to be 0.50005
+Computing sqrt of 0.0001 to be 0.250125
+Computing sqrt of 0.0001 to be 0.125262
+Computing sqrt of 0.0001 to be 0.0630304
+Computing sqrt of 0.0001 to be 0.0323084
+Computing sqrt of 0.0001 to be 0.0177018
+Computing sqrt of 0.0001 to be 0.0116755
+Computing sqrt of 0.0001 to be 0.0101202
+Computing sqrt of 0.0001 to be 0.0100007
+Computing sqrt of 0.0001 to be 0.01
+The square root of 0.0001 is 0.01
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[0.0001 is 0.01
+]
+"TutorialSmall" end time: Mar 25 10:07 EDT
+"TutorialSmall" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: TutorialUsage
+5/5 Test: TutorialUsage
+Command: "/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build/Tutorial"
+Directory: /home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build
+"TutorialUsage" start time: Mar 25 10:07 EDT
+Output:
+----------------------------------------------------------
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build/Tutorial Version 1.0
+Usage: /home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/build/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[Usage:.*number
+]
+"TutorialUsage" end time: Mar 25 10:07 EDT
+"TutorialUsage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 25 10:07 EDT

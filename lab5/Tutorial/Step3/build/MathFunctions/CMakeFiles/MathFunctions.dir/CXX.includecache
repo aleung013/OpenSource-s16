@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/MathFunctions/MathFunctions.h
+
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step3/MathFunctions/MathFunctions.h
+

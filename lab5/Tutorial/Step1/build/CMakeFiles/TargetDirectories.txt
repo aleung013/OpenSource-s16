@@ -1,0 +1,1 @@
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step1/build/CMakeFiles/Tutorial.dir

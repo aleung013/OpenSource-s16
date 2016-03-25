@@ -1,0 +1,2 @@
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step4/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/alvin/RPI/Sophomore/Spring/Tutorial/Step4/build/CMakeFiles/Tutorial.dir
