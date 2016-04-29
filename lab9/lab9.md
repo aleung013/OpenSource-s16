@@ -27,3 +27,8 @@ Inserting a word into the database:
 
 ### Checkpoint 4
 [Code](https://github.com/aleung013/csci2963_mongodb_lab/blob/master/checkpoint4.py) for checkpoint 4
+
+### Checkpoint 5
+[Code](https://github.com/aleung013/csci2963_mongodb_lab/blob/master/checkpoint5.py) for checkpoint 5
+
+![Running checkpoint5](checkpoint5.png)
